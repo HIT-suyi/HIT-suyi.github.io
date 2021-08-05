@@ -15,6 +15,7 @@ tags: #标签
 > “suyi的BLOG（forked by Hux）初步搭建成功啦！”
 
 搭建这个博客的技术:   [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 
-本博客是fork了[Hux的开源项目](huxpro.github.io)后，根据Hux写下的用户手册一步步删改而成的，为了表示对Hux的谢意，本博客页面下保留了Hux的Github导链。
+<br><br>
+本博客是fork了[Hux的开源项目](https://github.com/Huxpro/huxpro.github.io)后，根据Hux写下的用户手册一步步删改而成的，为了表示对Hux的谢意，本博客页面下保留了Hux的Github导链。<br>
 
 suyi's blog Powered by [Huxpro](https://github.com/Huxpro/huxpro.github.io)
