@@ -4,8 +4,8 @@ SEOTitle: 素一的博客
 header-img: img/home-bg.jpg
 email: agharpe-veta@hotmail.com
 description: "suyi的自我修炼及成长历程记录"
-keyword: "素一, suyi, 素一suyi, 博客, HIT-suyi, 素一的博客, suyi's Blog, 个人网站, 互联网"
-url: "https://hit-suyi.github.io/"              # your host, for absolute URL
+keyword: "素一, suyi, 素一suyi, 博客, hait-suyi, 素一的博客, suyi's Blog, 个人网站, 互联网"
+url: "https://hait-suyi.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 zhihu_username:     justice-73-27
-github_username:    HIT-suyi
+github_username:    hait-suyi
 jianshu_username:   05cb56b6d58f
 #twitter_username:   huxpro
 #facebook_username:  huxpro
